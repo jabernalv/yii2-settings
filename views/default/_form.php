@@ -10,7 +10,7 @@
     use yii\widgets\ActiveForm;
     use jabernal\settings\Module;
     use \jabernal\settings\models\Setting;
-    use richardfan\widget\JSRegister;
+    use \jabernal\settings\components\JSRegister;
 
     /**
      * @var yii\web\View $this
